@@ -2,7 +2,7 @@
 
 | Field   | Value                     |
 |---------|---------------------------|
-| Version | 0.1                       |
+| Version | 0.2                       |
 | Date    | 2026-10-23                |
 | Author  | Chheng Kimter             |
 | Status  | Complete                  |
@@ -28,3 +28,4 @@
 | Date | Version | Change                                                 |
 |------|---------|--------------------------------------------------------|
 | 2026-10-23 | 0.1     | Lab-01: charter, stakeholders, business case, mapping  |
+| 2026-10-23 | 0.2     | Lab-01 challenge: post-mortem analysis of CampusPay failure added |
