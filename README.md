@@ -5,4 +5,5 @@
 - **Degree:** Software Engineering, Institute of Technology of Cambodia (ITC)
 
 ## Lab Progress
-- [ ] Lab-01: Project charter for the Realtime Quiz project
+- [x] Lab-01: Project charter for the Realtime Quiz project
+  - Lab-01 completed: charter, stakeholders, business case, process groups (see lab01/README.md)
