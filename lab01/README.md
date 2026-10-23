@@ -17,6 +17,7 @@
 | lab01/business-case.md        | three-option business case with quantified problem, payback period, risks and review gate |
 | lab01/business-case.csv       | cost and benefit spreadsheet lines with quantities, unit costs, amounts and formulas |
 | lab01/process-groups.md       | five process groups mapped across 14 weeks with Mermaid Gantt and three phase gates |
+| lab01/organisation.png        | visual diagram of the project organization structure (sponsor, PM, team, operations) |
 | lab01/post-mortem.md          | post-mortem analysis of project failures and preventative management practices |
 
 ## Inputs reused
